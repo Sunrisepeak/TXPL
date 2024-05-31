@@ -1,0 +1,6 @@
+[book]
+authors = ["SPeak"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The X Programming Language"
