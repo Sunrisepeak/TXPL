@@ -1,6 +1,10 @@
 [book]
-authors = ["SPeak"]
-language = "en"
+authors = ["Sunrisepeak"]
+language = "zh"
 multilingual = false
 src = "src"
 title = "The X Programming Language"
+
+[output.html]
+git-repository-url = "https://github.com/Sunrisepeak/TXPL"
+edit-url-template = "https://github.com/Sunrisepeak/TXPL/edit/main/{path}"
